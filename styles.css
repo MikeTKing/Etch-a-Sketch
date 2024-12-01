@@ -1,0 +1,27 @@
+.container {
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.grid-square {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+.grid-square.hovered {
+    background-color: black;
+}
+
+.controls {
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+} 
