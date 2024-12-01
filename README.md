@@ -4,7 +4,7 @@ A browser-based drawing application that combines features of a sketchpad and an
 
 ## Live Demo
 
-[View Live Demo]([https://miketking.github.io/Etch-a-Sketch/](http://127.0.0.1:5500/index.html))
+http://127.0.0.1:5500/index.html
 
 ## Features
 
